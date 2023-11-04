@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.tile {
+  background-color: green;
+  width: 150px;
+  height: 150px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: brown;
+  width: 450px;
+  height: 450px;
+}
+
+.mole {
+  background-image: url('images/mole.jpg');
+  background-size: cover;
+}
